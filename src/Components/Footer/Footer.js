@@ -5,9 +5,9 @@ function Footer() {
     <div className="container">
     <div className="footer">
         <div className="row">
-          <a href="https://www.instagram.com/dp_vasani56/" target="blank"><i className="fa fa-instagram" /></a>
+          <a href="https://www.instagram.com/k_rdesai03/" target="blank"><i className="fa fa-instagram" /></a>
           <a href="#" target="blank"><i className="fa fa-youtube" /></a>
-          <a href="https://github.com/dpvasani" target="blank"><i className="fa fa-github" /></a>
+          <a href="https://github.com/dkrupali56" target="blank"><i className="fa fa-github" /></a>
           <a href="#" target="blank"><i className="fa fa-facebook" /></a>
         </div>
        
