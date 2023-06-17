@@ -2,10 +2,7 @@
 A Quiz Platform application 📱 built using react ⚛️ where you can create your own quiz and play.
 -------------------
 
-## ❤️ Deployed link
-
-or click here: http://dpvasani56.me/QuizPlatform/
-   or: https://quiz-platform-ivory.vercel.app/
+## ❤️ Deployed link Click [Here](https://quiz-platform3.netlify.app/)
 ---------------
 
 ## ⚙️ Features
@@ -25,14 +22,18 @@ Run "npm install" in the terminal to install all the packages needed for this pr
 * Material UI
 * React-Redux
 
-## 📸 Screenshots of the application
+## 📸 Images of the application
 
-||||
 |:----------------------------------------:|:-----------------------------------------:|:-----------------------------------------: |
+### Home Page
+![image](https://github.com/dkrupali56/Quiz-Platform/assets/102245210/1a28cc6e-890d-456d-8d90-7d28f47f452f)
+### Create Quiz
+![image](https://github.com/dkrupali56/Quiz-Platform/assets/102245210/ddaa5d81-349b-4888-b59f-290a74370374)
+### My Quiz
+![image](https://github.com/dkrupali56/Quiz-Platform/assets/102245210/dce191ee-dd42-404a-87cd-2cb505f8ea2c)
+### Play Quiz
+![image](https://github.com/dkrupali56/Quiz-Platform/assets/102245210/2b21942b-62e7-4291-bb46-17b8d6531eb3)
 
-![Screenshot (49)](https://github.com/dpvasani/QuizPlatform/blob/de8504bd1167d5513f09513161eb36889b9180ad/a.png)
-![Screenshot (48)](https://user-images.githubusercontent.com/81317587/206523557-49023504-f72f-4c1c-866b-eb1e5613e5a5.png)
-![Screenshot (46)](https://user-images.githubusercontent.com/81317587/206523662-29e23431-5f82-4a23-9737-366aefb06101.png)
 
 
 
